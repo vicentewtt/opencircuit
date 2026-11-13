@@ -1,0 +1,5 @@
+LiquidCrystal 42022e0 https://github.com/arduino-libraries/LiquidCrystal
+LiquidCrystal_I2C 738765e https://github.com/johnrickman/LiquidCrystal_I2C
+Adafruit_NeoPixel d514fc3 https://github.com/adafruit/Adafruit_NeoPixel
+Keypad 8012850 https://github.com/Chris--A/Keypad
+Stepper 262f7b3 https://github.com/arduino-libraries/Stepper
