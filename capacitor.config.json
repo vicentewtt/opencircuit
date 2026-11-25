@@ -1,0 +1,8 @@
+{
+  "appId": "com.vicentewtt.opencircuit",
+  "appName": "OpenCircuit",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#121514"
+  }
+}
